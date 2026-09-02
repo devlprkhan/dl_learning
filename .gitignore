@@ -28,3 +28,7 @@ dist/
 # Coverage
 .coverage
 htmlcov/
+
+# Datasets
+notebook/RNN/aclImdb_v1_archive
+notebook/RNN/aclImdb_v1/
